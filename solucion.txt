@@ -1,5 +1,5 @@
 I turned the moon into something I call a Death Star.
-fase 2
+1 2 4 8 16 32
 fase 3
 fase 4 
 fase 5
